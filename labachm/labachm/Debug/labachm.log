@@ -1,0 +1,5 @@
+﻿  labachm.cpp
+C:\Users\annwr\source\repos\labachm\labachm\labachm.cpp(69,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\annwr\source\repos\labachm\labachm\labachm.cpp(97,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\annwr\source\repos\labachm\labachm\labachm.cpp(132,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  labachm.vcxproj -> C:\Users\annwr\source\repos\labachm\Debug\labachm.exe
